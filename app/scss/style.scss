@@ -129,7 +129,7 @@ button{
     color:#08073A; 
 }
 .pages{
-    width: 500px;
+    width: 800px;
     height: 30px;
     margin: 30px auto;
     display: flex;
@@ -138,12 +138,13 @@ button{
     overflow: hidden;
     
 }
+
 .page{
     display: block;
     width: 30px;
     height: 30px;
     margin: 0 6px;
-    padding: 3px 0;
+    padding: 3px 9px;
     background-color: #271F3B;
     color:#fff;
     font-size: 18px;
@@ -158,6 +159,17 @@ cursor: pointer;
 .show{
     display: block;
 }
+.blue{
+    background-color: #271F3B;
+}
 .red{
     background-color: red;
+}
+.dots{
+    //width: 150px;
+    color:#fff;
+    font-size: 30px;
+    letter-spacing: 3px;
+   
+   
 }
