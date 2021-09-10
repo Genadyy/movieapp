@@ -243,7 +243,7 @@ function addRed(e) {
   }
 }*/
 
-const URL = "http://www.omdbapi.com/?apikey=f0d73960&",
+const URL = "https://www.omdbapi.com/?apikey=f0d73960&",
   form = document.forms.form,
   searchInput = form.elements.search,
   typeSelect = form.elements.typesearch,
